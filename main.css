@@ -14,12 +14,9 @@
 
   }
   .content {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
     
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    max-width: 100%;
-    height: auto;
-  
 
   }
